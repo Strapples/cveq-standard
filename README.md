@@ -56,6 +56,16 @@ CVEQ-Year: Historical compute velocity curve (e.g. CVEQ of Pentium 4 ~0.05)
 
 CVEQ-Latency: Response time-to-output across real-world workloads
 
+Macroscale Metrics
+
+nCVEQ Core (Current Scores)
+
+Computed based on publicly known High Performance Cluster (HPC) metrics, such as government, university, and institutional compute nodes. Core scores do not include consumer, mobile, or private infrastructure.
+
+nCVEQ Extended (Planned)
+
+Future versions of nCVEQ will include estimates from consumer and mobile devices, using data from sources like Nielsen, telecom analytics, and computing usage statistics to generate extended national CVEQ footprints.
+
 Use Cases
 
 News reports: "This datacenter runs at 50,000,000 CVEQs of compute."
@@ -84,4 +94,3 @@ Let’s make compute power understandable.
 Let’s make compute power equitable.
 Let’s make compute power CVEQ.
 
-First Data In: Estimated nCVEQ (National Computational Velocity Equivalent) for top 10 nations. 04/02/2025
