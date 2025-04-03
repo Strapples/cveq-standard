@@ -84,3 +84,4 @@ Let’s make compute power understandable.
 Let’s make compute power equitable.
 Let’s make compute power CVEQ.
 
+First Data In: Estimated nCVEQ (National Computational Velocity Equivalent) for top 10 nations. 04/02/2025
