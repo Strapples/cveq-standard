@@ -26,6 +26,38 @@ PCIe SSD (500MB/s+)
 
 Use Case: Midline laptop performance for creative, technical, and productivity workloads
 
+💻 CVEQ 2.5 (Workstation Laptop - High Grade)
+
+Device: Apple M4 Pro MacBook (2024)
+
+Specs:
+
+Apple M4 Pro SoC
+
+12-core CPU, 18-core GPU, 36GB RAM
+
+High-bandwidth SSD (~5000MB/s)
+
+16-core Neural Engine
+
+Use Case: Workstation-grade mobile computing. Ideal for ML, video editing, engineering, and real-time applications.
+
+🖥️ CVEQ ~4.5 (High Grade Workstation Desktop)
+
+Device: $2,000 custom-built desktop (2024 market equivalent)
+
+Specs:
+
+AMD Ryzen 9 / Intel i9 (12–16 cores)
+
+32–64GB RAM
+
+RTX 4080 / Radeon 7900 class GPU
+
+NVMe SSD (7000MB/s+)
+
+Use Case: Advanced rendering, scientific simulations, AI training workloads. Highly thermally sustained.
+
 📱 Phone Class
 
 Example: iPhone 9 / iPhone SE (2020)
